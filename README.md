@@ -1,13 +1,15 @@
-# Sample Hardhat Project
+<h1 align="center" id="title">myNFT</h1>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+<p id="description">Basic hardhat project to deploy your own NFT on Goerli Testnet. You can check out the deployed contract at: 0xB80eeace69e784Ef28830C4037CDa9C8c5625f19</p>
 
-Try running some of the following tasks:
+<h2>💻 Built with</h2>
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Technologies used in the project:
+
+*   Solidity
+*   Javascript
+*   Hardhat
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
